@@ -1,2 +1,11 @@
-# tythas
-We help businesses to go digital and grow their business online.
+
+  # Growthweb
+
+  This is a code bundle for Growthweb. The original project is available at https://www.figma.com/design/kar6KkIB0cuE9iNfABdyBR/Growthweb.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
