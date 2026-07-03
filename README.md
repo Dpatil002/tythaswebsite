@@ -1,5 +1,5 @@
 
-  # Growthweb
+  #Tythas
 
   This is a code bundle for Growthweb. The original project is available at https://www.figma.com/design/kar6KkIB0cuE9iNfABdyBR/Growthweb.
 
